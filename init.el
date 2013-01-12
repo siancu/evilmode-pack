@@ -1,4 +1,4 @@
 ;; Evil-mode pack init file
 ;;
 
-(live-load-config-file "evil-config.el")
+(live-load-config-file "evil-conf.el")
