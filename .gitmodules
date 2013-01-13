@@ -4,3 +4,6 @@
 [submodule "vendor/submodules/evil-surround"]
 	path = vendor/submodules/evil-surround
 	url = https://github.com/timcharper/evil-surround.git
+[submodule "vendor/submodules/evil-leader"]
+	path = vendor/submodules/evil-leader
+	url = https://github.com/cofi/evil-leader.git
