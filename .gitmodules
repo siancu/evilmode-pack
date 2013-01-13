@@ -7,3 +7,6 @@
 [submodule "vendor/submodules/evil-leader"]
 	path = vendor/submodules/evil-leader
 	url = https://github.com/cofi/evil-leader.git
+[submodule "vendor/submodules/evil-nerd-commenter"]
+	path = vendor/submodules/evil-nerd-commenter
+	url = https://github.com/redguardtoo/evil-nerd-commenter.git

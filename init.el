@@ -9,3 +9,6 @@
 
 ;; evil-leader
 (live-load-config-file "evil-leader-conf.el")
+
+;; evil-nerd-commenter
+(live-load-config-file "evil-nerd-commenter-conf.el")
