@@ -6,3 +6,5 @@
 (setq evil-leader/leader "," evil-leader/in-all-states t)
 
 (require 'evil-leader)
+
+(global-evil-leader-mode)
