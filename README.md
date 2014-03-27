@@ -9,6 +9,6 @@ To install this pack into your emacs-live clone this repository and update the e
     git submodule init
     git submodule update
 
-Afterwards add the following to your `.emacs-live` file and restart Emacs:
+Afterwards add the following to your `.emacs-live.el` file and restart Emacs:
 
     (live-add-packs '(~/.evilmode-pack))
