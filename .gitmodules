@@ -1,6 +1,6 @@
 [submodule "vendor/submodules/evil"]
 	path = vendor/submodules/evil
-	url = git://gitorious.org/evil/evil.git
+	url = https://github.com/emacsmirror/evil
 [submodule "vendor/submodules/evil-surround"]
 	path = vendor/submodules/evil-surround
 	url = https://github.com/timcharper/evil-surround.git
